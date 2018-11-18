@@ -1,2 +1,2 @@
-# amazon-alexa-skill
+# amazon alexa skill
 ## My novice custom alexa skill
